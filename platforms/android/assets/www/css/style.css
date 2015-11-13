@@ -1,0 +1,103 @@
+/* Empty. Add your own CSS if you like */
+.title {
+    margin: 0!important;
+    box-shadow: 0 1px 10px #bbb;
+}
+
+/* Temperature page styling */
+
+.first_circle {
+    background-color: crimson;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.second_circle {
+    
+    background-color: white;
+    border-radius: 50%;
+    width: 170px;
+    height: 170px;
+    margin: 0 auto;
+    top: 15px;
+    position: relative;
+}
+
+.third_circle {
+    
+    background-color: #FFDDDD;
+    border-radius: 50%;
+    width: 160px;
+    height: 160px;
+    margin: 0 auto;
+    top: 5px;
+    position: relative;
+}
+
+.temperature {
+    font-weight: bolder;
+    color: red;
+    font-size: 60px;
+    display: block;
+    text-align: center;
+    top: 70px;
+    position: relative;
+}
+
+/* Pressure page styling */
+
+.first_circle_pressure {
+    background-color: green;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.second_circle_pressure {
+    
+    background-color: white;
+    border-radius: 50%;
+    width: 170px;
+    height: 170px;
+    margin: 0 auto;
+    top: 15px;
+    position: relative;
+}
+
+.third_circle_pressure {
+    
+    background-color: #BDF0D7;
+    border-radius: 50%;
+    width: 160px;
+    height: 160px;
+    margin: 0 auto;
+    top: 5px;
+    position: relative;
+}
+
+.pressure {
+    font-weight: bolder;
+    color: magenta;
+    font-size: 40px;
+    display: block;
+    text-align: center;
+    top: 70px;
+    position: relative;
+}
+
+#line{
+    margin: 20px 0;
+    height: 400px;
+    background: white;
+}
+
+#spike {
+    margin: 20px 0;
+    position: absolute;
+    left: 17px;
+    height: 400px;
+    background: transparent;
+}

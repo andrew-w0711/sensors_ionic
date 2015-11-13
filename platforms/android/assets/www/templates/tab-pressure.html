@@ -1,0 +1,21 @@
+<ion-view view-title="Pressure">
+    <div class="bar bar-header">
+        <a ng-href="#/tab/home" class="button" ng-click="StopTimer()">Back</a>
+        <h1 class="title">Pressure(hPa)</h1>
+    </div>
+    <ion-content class="has-header">
+        <div class="list list-inset">
+            <div class="item row">
+                <div class="col col-offset-10 col-80">
+                    <div class="first_circle_pressure">
+                        <div class="second_circle_pressure">
+                            <div class="third_circle_pressure">
+                                <span class="pressure">{{pressure}}</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </ion-content>
+</ion-view>

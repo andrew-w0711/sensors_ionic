@@ -1,0 +1,13 @@
+{
+    "jscodehints.detectedExclusions": [
+        "E:/Projects/Anton Pavlov/Andrew/Sensors/platforms/ios/www/lib/ionic/js/angular/angular-resource.js",
+        "E:/Projects/Anton Pavlov/Andrew/Sensors/platforms/ios/www/lib/ionic/js/angular/angular-resource.min.js",
+        "E:/Projects/Anton Pavlov/Andrew/Sensors/platforms/ios/www/lib/ionic/js/angular/angular-sanitize.js",
+        "E:/Projects/Anton Pavlov/Andrew/Sensors/platforms/ios/www/lib/ionic/js/angular/angular-sanitize.min.js",
+        "E:/Projects/Anton Pavlov/Andrew/Sensors/platforms/ios/www/lib/ionic/js/angular/angular.js",
+        "E:/Projects/Anton Pavlov/Andrew/Sensors/platforms/ios/www/lib/ionic/js/angular/angular.min.js",
+        "E:/Projects/Anton Pavlov/Andrew/Sensors/platforms/ios/www/lib/ionic/js/angular/angular-animate.js",
+        "E:/Projects/Anton Pavlov/Andrew/Sensors/platforms/ios/www/lib/ionic/js/angular/angular-animate.min.js",
+        "E:/Projects/Anton Pavlov/Andrew/Sensors/www/js/controllers.js"
+    ]
+}
